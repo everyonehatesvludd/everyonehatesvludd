@@ -20,7 +20,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/joey.gif" alt="joey jordison" />
+ <img align="right" width="400" src="/joey.gif" alt="joey jordison" />
   
  ◾ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ◽ &emsp; Love to writing code and learning new features<br/><br/>
