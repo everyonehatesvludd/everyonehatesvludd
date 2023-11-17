@@ -26,6 +26,8 @@
  ◽ &emsp; Love to writing code and learning new features<br/><br/>
  ◾ &emsp; Reach me anytime: vreginalld@gmail.com<br/><br/>
  ◽ &emsp; You can connect with me [here](https://t.me/slezkipotekli)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ogdhxwmxynasrtmwokiouuo5gm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
 
 </p>
@@ -48,6 +50,5 @@
 ![WEBSTORM](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ogdhxwmxynasrtmwokiouuo5gm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
