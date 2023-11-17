@@ -14,17 +14,7 @@
     <br>
   </samp>
 </p>
-<p align="center">
- <a href="https://t.me/slezkipotekli" target="blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://discordapp.com/users/929111178603548693" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="alsiam"/>
- </a>
-</p>
 <br />
-<br>
-<br>
 
 <!-- About Section -->
  # About me
