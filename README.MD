@@ -27,6 +27,8 @@
  ◾ &emsp; Reach me anytime: vreginalld@gmail.com<br/><br/>
  ◽ &emsp; You can connect with me [here](https://t.me/slezkipotekli)
 
+<br/>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ogdhxwmxynasrtmwokiouuo5gm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
 
