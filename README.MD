@@ -25,7 +25,7 @@
  ㊙️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ㊗️ &emsp; Love to writing code and learning new features<br/><br/>
  🉐 &emsp; Reach me anytime: vreginalld@gmail.com<br/><br/>
- ㊗️ &emsp; You can connect with me [here](https://t.me/slezkipotekli)
+ ㊗️ &emsp; You can contact with me [here](https://t.me/slezkipotekli)
 
 <br/>
 
