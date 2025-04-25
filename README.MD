@@ -1,1 +1,1 @@
-contact: vreginalld@gmail.com
+contact: contact@vregi.dev
